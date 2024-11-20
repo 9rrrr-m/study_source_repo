@@ -7,5 +7,6 @@
 
   ```bash
   git clone https://github.com/9rrrr-m/RHCE_source_repo.git
-  cp -ar * /var/www/html/
+  cd RHCE_source_repo/
+  cp -r * /var/www/html/
   ```
