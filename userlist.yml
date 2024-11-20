@@ -1,0 +1,8 @@
+---
+users:
+  - username: developer
+    groups: daemon
+    password_expire_max: 30
+  - username: manager
+    groups: adm
+    password_expire_max: 30
