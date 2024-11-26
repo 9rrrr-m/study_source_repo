@@ -1,4 +1,4 @@
-# RHCE_source_repo
+# study_source_repo
 
 ❗ ```pkg``` 디렉토리는 제외하였습니다.
 
@@ -6,7 +6,7 @@
 - 아래와 같이 서비스 디렉토리로 **복사**하여 사용하세요.
 
   ```bash
-  git clone https://github.com/9rrrr-m/RHCE_source_repo.git
-  cd RHCE_source_repo/
+  git clone https://github.com/9rrrr-m/study_source_repo.git
+  cd study_source_repo/
   cp -r * /var/www/html/
   ```
